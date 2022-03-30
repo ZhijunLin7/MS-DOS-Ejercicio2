@@ -1,4 +1,4 @@
-# MS-DOS2
+# MS-DOS ejercicio2
 ## EJERCICIO 1
 1.- Crea la siguiente estructura de carpetas:
 ```sh
